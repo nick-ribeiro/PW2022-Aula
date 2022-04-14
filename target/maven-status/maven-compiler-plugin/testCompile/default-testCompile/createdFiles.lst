@@ -1,0 +1,8 @@
+br\edu\ifsul\testes\TestPersistirUsuario.class
+br\edu\ifsul\testes\TestePersistirEstado.class
+br\edu\ifsul\testes\TestePersistirCidade.class
+br\edu\ifsul\testes\TestPersistirPermissao.class
+br\edu\ifsul\testes\TestPersistirPermissoesUsuarios.class
+br\edu\ifsul\testes\TesteListarEstado.class
+br\edu\ifsul\testes\TesteAlterarEstado.class
+br\edu\ifsul\testes\TesteRemoverEstado.class
